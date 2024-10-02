@@ -62,6 +62,8 @@ Data Structures and Algorithms
 Common algorithms: Sorting (quick sort, merge sort) and searching (binary search).
 Recursion: Understanding recursive functions and base cases.
 Time complexity: Basic understanding of Big-O notation.
+
+
 3. Advanced Level
 Advanced OOP
 
@@ -88,6 +90,9 @@ Testing & Continuous Integration
 Advanced unit testing: Using pytest for more powerful testing.
 Mocking: Mocking external services in tests.
 Continuous integration: Setting up CI tools like Travis CI or GitHub Actions.
+
+
+
 4. Saint Level
 Coroutines and Generators
 
@@ -111,6 +116,9 @@ Asynchronous Programming
 
 Event loop: Understanding how the event loop works.
 Futures: Using futures for asynchronous execution.
+
+
+
 5. King Level
 Metaprogramming
 
@@ -132,6 +140,9 @@ Working with memoryview objects for efficient memory handling.
 Advanced Caching
 
 Integrating Redis or Memcached for caching strategies.
+
+
+
 6. Emperor Level
 Advanced Concurrency
 Concurrent.futures: Managing parallel execution.
@@ -145,6 +156,9 @@ Creating advanced iterators: Implementing iter and next.
 Using generator expressions for efficient looping.
 Advanced Decorators
 Chaining decorators: Combining multiple decorators effectively.
+
+
+
 7. God Level
 Dynamic Code Execution
 

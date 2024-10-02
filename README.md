@@ -29,6 +29,12 @@ Basic Exception Handling
 
 Using try and except: Catching and handling exceptions.
 Finally and else: Using with try-except.
+
+
+
+
+
+
 2. Intermediate Level
 Object-Oriented Programming (OOP)
 

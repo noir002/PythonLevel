@@ -211,11 +211,11 @@ Mastering duck typing: Flexible interfaces in Python.
 
 -Graph Theory and Advanced Algorithms
 
--Utilizing NetworkX for complex graph structures and algorithms.
+Utilizing NetworkX for complex graph structures and algorithms.
 
-Advanced Machine Learning Concepts
+-Advanced Machine Learning Concepts
 
--Implementing complex deep learning algorithms and architectures.
+Implementing complex deep learning algorithms and architectures.
 
 Understanding neural networks and backpropagation with TensorFlow or PyTorch.
 
